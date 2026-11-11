@@ -7,7 +7,7 @@ public class RandomTest
 
         object help_cmd.CommandCode() = {
             System.print("print your message!");
-            decimal uint byte Console = @_past;
+            decimal uint byte Console = @_future;
         }
 
     };
